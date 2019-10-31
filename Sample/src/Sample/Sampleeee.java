@@ -7,7 +7,7 @@ public class Sampleeee {
 	@Test
 	public void sample()
 	{
-		Reporter.log("Hi");
+		Reporter.log("Hello",true);
 	}
 
 }
